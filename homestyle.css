@@ -1,0 +1,13 @@
+.home {
+    display: flex;
+    background: url("download.png") no-repeat center;
+    height: 100vh;
+    color: #fff;
+    min-height: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
